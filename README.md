@@ -1,0 +1,2 @@
+# Third Party Time
+Third parties are rarely the best parties.  This is the start to a chrome module to keep track of a JS/pixel dependency tree to understand who is loading what and tracking what on any web page.
